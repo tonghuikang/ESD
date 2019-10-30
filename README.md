@@ -18,7 +18,7 @@ We aim to have this as a termly event.
 ## Course Planner
 We aim to ease the planning process for students and admin staff regarding to the ever more complicating course/track/minor requirements.
 <br><br>
-**Currently the planner is here : https://course-planner.opensutd.org/**
+**Currently stable version of the planner is available [here](https://course-planner.opensutd.org/)**
 <br>
 The current version is reactive<br>
 In future development, we would also like to make a recommendation system for course-plan/module given student's strength or interest.
